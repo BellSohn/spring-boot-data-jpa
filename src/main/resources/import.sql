@@ -1,0 +1,1 @@
+INSERT INTO clientes(apellido,create_at,email,nombre,foto)VALUES('Ferran','2021-02-10','luis@luis.com','Luis','');
